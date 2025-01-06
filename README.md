@@ -1,6 +1,6 @@
 # Welcome 🚀
 
-![Profile Header](https://via.placeholder.com/1200x300?text=Your+Custom+Banner)
+![Profile Header]((https://via.placeholder.com/300x150?text=Hello+World))
 
 ## About Me
 - 🔭 Working on **SI**.
@@ -9,6 +9,5 @@
 - 📫 How to reach me: [eojin823@gmail.com](mailto:eojin823@gmail.com).
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=deepria&show_icons=true&theme=radical)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepria&layout=compact&theme=radical)
 
