@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 Working on **SI**.
-- 🌱 Learning **AWS**, **NoSQL**, **Vue3**.
+- 🌱 Learning **AWS**, **NoSQL**, **Vue3**, **AI**.
 - 💬 Ask me about **Spring Boot**, **API Development**.
 - 📫 How to reach me: [eojin823@gmail.com](mailto:eojin823@gmail.com).
 
