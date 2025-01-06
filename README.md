@@ -3,10 +3,10 @@
 ![Profile Header](https://via.placeholder.com/1200x300?text=Your+Custom+Banner)
 
 ## About Me
-- 🔭 Working on **Awesome Projects**.
+- 🔭 Working on **SI**.
 - 🌱 Learning **AWS**, **DynamoDB**, **Vue.js**.
 - 💬 Ask me about **Spring Boot**, **API Development**.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com).
+- 📫 How to reach me: [eojin823@gmail.com](mailto:eojin823@gmail.com).
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=deepria&show_icons=true&theme=radical)
